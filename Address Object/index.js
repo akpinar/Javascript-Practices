@@ -1,4 +1,4 @@
-
+//Address objectinin propertylerini bastıran program
 let address = {
     street: 'a', 
     city: 'b',

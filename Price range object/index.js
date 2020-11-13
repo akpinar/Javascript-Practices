@@ -1,3 +1,4 @@
+//restaurantların ucuzlukp pahalılık oranını ölçen prgram
 let priceRanges = [
     {label: '$', tooltip:'inexpensive', minPerPerson: 0, maxPerPerson: 10},
     {label: '$$', tooltip:'moderate', minPerPerson: 11, maxPerPerson: 20},

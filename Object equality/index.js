@@ -1,3 +1,5 @@
+//objectlerin eşitliğini kontrol eden program
+
 let address1 = new Address('a','b','c')
 let address2 = new Address('a','b','c')
 let address3 = address1;

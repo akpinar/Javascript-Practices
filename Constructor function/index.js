@@ -1,3 +1,4 @@
+//Constroctor fonksiyonun anlatan örnek program
 let post = new Post('a','b','c');
 console.log(post);
 
