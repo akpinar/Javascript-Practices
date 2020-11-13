@@ -1,5 +1,5 @@
 
-
+//iki sayı arasındaki max sayıyı bulan program
 
 // function max(x,y){
 //     if (x >= y)

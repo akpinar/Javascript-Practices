@@ -1,4 +1,4 @@
-
+//objectin 'string' propertysini ekrana bastıran program 
 const movie = {
     title: 'a',
     releaseYear:2018,

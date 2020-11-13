@@ -1,3 +1,4 @@
+//Asal sayı bulan program
 
 showPrimes(20);
 function showPrimes(limit){

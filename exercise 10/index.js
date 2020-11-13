@@ -1,4 +1,4 @@
-
+//girilen sayı kadar ekrana yıldız bastıran program 
 showStars(6);
 function showStars(rows){
     for(let i = 1; i<rows; i++){

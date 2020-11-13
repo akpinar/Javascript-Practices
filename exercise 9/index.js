@@ -1,3 +1,4 @@
+//Öğrenci harf notunu hesaplayan program
 const array = [80,80,50];
 
 console.log(calculateGrade(array));

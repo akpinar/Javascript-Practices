@@ -1,3 +1,4 @@
+//Sayının tek mi çift mi olduğ8unu bulan program
 
 showNumbers(10);
 

@@ -1,4 +1,6 @@
-
+//fizz -> 3'e bölünebilen sayılar
+//buzzz-> 5'e bölünebilen sayılar
+//fizzBuzz-> hem 3'e hem 5'e bölünebilen sayılar
 
 const output = fizzBuzz(15);
 console.log(output);

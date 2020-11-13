@@ -1,4 +1,4 @@
-
+//Hız limitine göre ehliyet puanı yazan js programı 
 checkSpeed(76);
 
 function checkSpeed(speed){
